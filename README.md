@@ -11,10 +11,7 @@ I currently develop **improvements**, **automations**, and **applications** focu
 
 <p align="left">
   <a href="https://github.com/guharaujo7">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-guharaujo7-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
