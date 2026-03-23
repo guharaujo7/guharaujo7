@@ -4,6 +4,9 @@
 🇧🇷 From Brazil
 
 I currently develop **improvements**, **automations**, and **applications** focused on enhancing my team's daily routine on ItaúBBA!
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f9c03270-acc7-4643-9e13-17a3b5bb8372" width="500px" />
+</div>
 
 ---
 
