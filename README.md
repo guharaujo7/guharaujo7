@@ -5,7 +5,7 @@
 
 - I’m currently learning **C# and React**
 
-- 👨‍💻 All of my projects are available at [on my github](on my github)
+- 👨‍💻 All of my projects are available at on my githubon my github
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
