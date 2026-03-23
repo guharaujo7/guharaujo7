@@ -10,8 +10,11 @@ I currently develop **improvements**, **automations**, and **applications** focu
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/guharaujo7">
+  <a href="https://www.linkedin.com/in/gustavokuhn/">
     <img src="https://img.shields.io/badge/GitHub-guharaujo7-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/guharaujo7">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
